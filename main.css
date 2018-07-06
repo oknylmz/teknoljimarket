@@ -1,0 +1,100 @@
+
+
+body {
+	background-color:white;
+
+}
+
+h1{
+  font-family:Segoe UI Black;
+   margin:50px 140px 10px 160px; 
+   color:black;
+}
+hr{
+	width:55%;
+
+}
+.cizgi{
+	width="85%"
+}
+
+table{
+	margin-left:170px;
+	color:black;
+font-family:Segoe UI Black;
+margin: 0 auto;
+	}
+button {
+    width: 100%;
+    margin-top:10px;
+}
+element.style {
+    width: 700px;
+    margin: 0 auto;
+}
+.resim1{
+	margin-right:100px;
+	margin-top:0px;
+}
+.resim{
+	margin-right:200px;
+	margin-top:0px;
+}
+.c{
+	margin-left:150px;
+}
+.d{
+	margin-left:200px;
+}
+
+
+img {
+    vertical-align: middle;
+    padding: 18px;
+}
+
+		h3{
+			font-family:Segoe UI Black;
+	font-weight:bold;
+}
+frame{
+	margin-left:100px;
+}
+p{
+	color:black;
+	font-weight:lighter;
+}
+.col-md-6{
+	padding-left:60px;
+	padding-top:25px;
+	
+}
+
+.social-icon {
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.social-icon li {
+    display: inline-block;
+    list-style: none;
+}
+
+.social-icon li a {
+    color: #666;
+    border-radius: 100px;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all 0.4s ease-in-out;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.social-icon li a:hover {
+    background: #f2545f;
+    color: #ffffff;
+}
